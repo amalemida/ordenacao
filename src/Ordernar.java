@@ -11,11 +11,5 @@ public class Ordernar {
 
         }
     }
-
-    @Override
-    public String toString() {
-        return "Ordernar []";
-    }
-
     
 }
